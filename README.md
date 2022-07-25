@@ -3,5 +3,5 @@ a kind of cancer gene co-occurrence network,to identify latent gene pairs and sp
 CGCN has the followung dependencies:  
 • python>=3.5   
 • Networkx  
-•pandas  
-•numpy  
+• pandas  
+• numpy  
